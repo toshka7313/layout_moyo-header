@@ -10,8 +10,8 @@ html {
 }
 
 body {
-  margin: 0;
   padding: 0;
+  margin: 0;
   font-weight: 500;
   box-sizing: border-box;
 }
@@ -30,6 +30,8 @@ body {
   list-style: none;
   display: flex;
   align-items: center;
+  margin: 0;
+  padding: 0;
 }
 
 .nav__item + .nav__item {
